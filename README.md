@@ -5,7 +5,8 @@ This is part of the post [Assembly For JavaScript Developers](https://dev.to/___
 ## Compile
 
 The project already have compiled binaries for Linux 
-you need to install `nasm` to compile
+
+You need to install `nasm` to compile
 
 ## How to compile
 
